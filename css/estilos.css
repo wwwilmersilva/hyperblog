@@ -9,6 +9,7 @@ header {
     padding: 10px 30px;
     color: white;
     font-size: 21px;
+    line-height: 1.6;
 }
 header small {
     font-size: 14px;
